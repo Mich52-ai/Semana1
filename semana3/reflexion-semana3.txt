@@ -1,0 +1,4 @@
+Considero que es importante que los proyectos de Sotware mantengan un registro de cambios usando herramientas como Git porque permite llevar un control de todas las modificaciones realizadas. 
+Esto facilita corregir errores, recuperar versiones anteriores y conocer quien realizo cada cambio. 
+Ademas, mejora el trabajo en equipo, ya que varias personas pueden colbaorar en un mismo proyecto de forma organizada y segura. 
+Gracias a Git, el desarrollador del software es mas eficiente y se reduce el riesgo de perder informacion importante. 
