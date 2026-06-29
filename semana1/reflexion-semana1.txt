@@ -1,0 +1,8 @@
+La ciudadanía digital implica actuar con responsabilidad al consumir y compartir información.
+La verificación de datos ayuda a evitar la propagación de noticias falsas.
+La participación ciudadana se fortalece cuando las personas aportan información clara y confiable.
+También es importante organizar el trabajo técnico con herramientas como Git para llevar un registro ordenado.
+Git permite guardar cambios de forma segura y volver a versiones anteriores si se necesita.
+Además, favorece la colaboración y hace más clara la evolución de una actividad.
+Cuando se combinan estos elementos, se construye un trabajo más ético y profesional.
+Esto demuestra que la tecnología no solo sirve para producir contenido, sino también para aprender y trabajar mejor.
