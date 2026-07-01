@@ -1,0 +1,8 @@
+Las comunidades y las iniciativas ciudadanas necesitan herramientas tecnológicas propias para resolver problemas locales con autonomía.
+Node.js permite crear soluciones abiertas, flexibles y accesibles sin depender de plataformas cerradas.
+Utilizar tecnologías abiertas fomenta la transparencia, la colaboración y el aprendizaje compartido.
+Cuando una comunidad desarrolla sus propias aplicaciones, fortalece su capacidad de tomar decisiones digitales.
+También reduce la dependencia de proveedores externos y mejora la soberanía tecnológica.
+Con Node.js y Express, es posible construir servidores simples y escalables para servicios públicos o participativos.
+Esto facilita la creación de herramientas que respondan a necesidades reales de la comunidad.
+Además, el conocimiento técnico compartido promueve la inclusión y el desarrollo sostenible.
